@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+
+.car-heading{
+  color: yellow;
+  align-content: space-between;
+}
